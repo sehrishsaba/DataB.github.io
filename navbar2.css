@@ -1,0 +1,18 @@
+i{
+    color: whitesmoke;
+    font-size: 45px;
+}
+#text1{
+    position: relative;
+}
+#text{
+    position: absolute;
+    top: 30%;
+    color: rgb(224, 227, 230);
+    font-size: 50px;
+    left: 30%;
+}
+i{
+    color: whitesmoke;
+    font-size: 45px;
+}
